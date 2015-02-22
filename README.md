@@ -1,2 +1,4 @@
 # js-style-lint
-Styling and lint-ing of Javscript projects
+Styling and Lint-ing of Javscript projects
+
+
