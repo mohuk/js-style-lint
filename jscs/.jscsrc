@@ -33,10 +33,6 @@
         "afterConsequent": true,
         "beforeAlternate": true
     },
-    "requireSpacesInFunction": {
-        "beforeOpeningRoundBrace": true
-    },
-
     "validateParameterSeparator": ", ",
     "validateQuoteMarks": { "mark": "'", "escape": true },
     "maximumLineLength": 100
